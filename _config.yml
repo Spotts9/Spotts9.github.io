@@ -44,7 +44,7 @@ roles:
    start: 2016
    end: Ongoing
    employer: State Farm Insurance
-   description: Solutions Architect charged with setting direction for several key Enterprise initiatives, including:<br/><ul><li>Best practices for API development, including development of State Farm's first public API</li><li>&emsp;A/B Testing best practices, as well as, the evaluation, selection and enablement of a SaaS tooling solution</li>
+   description: Solutions Architect charged with setting direction for several key Enterprise initiatives, including:<br/><ul><li>Best practices for API development, including development of State Farm's first public API</li><li>A/B Testing best practices, as well as, the evaluation, selection and enablement of a SaaS tooling solution</li>
  - title: Senior Software Developer
    start: 2008
    end: 2016
@@ -59,7 +59,7 @@ roles:
    start: 2000
    end: 2003
    employer: State Farm Insurance
-   description: Entry level programmer / developer, primarily working on PL/I and IMS systems in support of Agent workforce. Transitioned to VB with a focus on Mid-Tier COM for support of early .com presence.
+   description: Entry level programmer / developer, primarily working on PL/I and IMS systems in support of Agent workforce. Transitioned to VB with a focus on Mid-Tier COM in support of early customer facing Internet applications.
 
 #Education is required
 education:
