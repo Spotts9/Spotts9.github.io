@@ -86,8 +86,8 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - Spotts9/GoogleAssistantSlack
  - Spotts9/bf-calc
+ - Spotts9/GoogleAssistantSlack
 
 #Stackoverflow flair is optional
 #stackoverflow:
