@@ -87,13 +87,7 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - Spotts9/GoogleAssistantSlack
-# - robhinds/akka-http-rest-api-sample
-# - robhinds/twitter-sentiment-analysis
-# - robhinds/spring-reactor-twitter
-# - robhinds/microservices
-# - robhinds/spring-social-geeklist
-# - robhinds/spring-social-stackoverflow
-# - robhinds/SpringMongoIntegrationExample
+ - Spotts9/bf-calc
 
 #Stackoverflow flair is optional
 #stackoverflow:
