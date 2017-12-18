@@ -37,6 +37,7 @@ skills:
  - Tech Architecture
  - SQL
  - Hadoop / Big Data
+ - OOAD
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
@@ -47,22 +48,17 @@ roles:
    start: 2016
    end: Ongoing
    employer: State Farm Insurance
-   description: Solutions Architect charged with setting direction for several key Enterprise initiatives, including:<br/><ul><li>Best practices for API development, including development of State Farm's first public API</li><li>A/B Testing best practices, as well as, the evaluation, selection and enablement of a SaaS tooling solution</li>
- - title: Senior Software Developer
-   start: 2008
+   description: IT Leader responsible for establishing and implementing the companies tactical short and long-term strategies for Business Experimentation and an API-first development culture<br/>Simultaneously led two different teams through industry scans and current state analysis for both Business Experimentation and API Development . Outcomes:<br/><ul><li>Evaluated, selected, stewarded contract negotiations and enabled a SaaS solution for Experimentation</li><li>Designed and led developed 3 custom integrations for the SaaS solution to work with our private cloud</li><li>Increased Experimentation by 50%, in the 2 quarters since acquisition of SaaS,  while achieving a 45% reduction in time to market for experiments</li><li>Delegated evaluation of available API Portal / Gateway products, collaborated on the selection of best fit for our organization.<br/>Collaborated with infrastructure to stand up trial instance for POC</li><li>Established and socialized best practices for API development,  responsible for a 50% increase in APIs under development</li></ul>
+ - title: Lead / Senior Software Developer
+   start: 2005
    end: 2016
    employer: State Farm Insurance
-   description: Technical Architect and Lead Developer for several mission critical enterprise initiatives, including a new rating engine and actuarial toolsuite, as well as the redesign and launch of Quote and Application flows for Auto, Fire and Life lines of business on an internal Cloud platform.
+   description: Collaborated in a team-focused environment providing high quality software solutions<br/>Helped build and enhance highly available, scalable, real-time and secure systems used by both internal business partners and external customers. Outcomes:<ul><li>Completed 12 major projects, working closely with business partners,  led agile development teams to develop, test and maintain Web based software applications.</li><li>Responsible for maintaining high-quality development standards while delivering solutions on-time and on-budget.</li><li>Team Lead for Advanced Software Engineering group, setup as internal results based development </li><li>Lead Developer for rewrite and migration to private cloud, for all Services associated with flag ship Auto Quote and Purchase application; realized 25% performance improvement for end to end quote</li></ul>
  - title: Software Developer
-   start: 2003
-   end: 2008
+   start: 2000
+   end: 2005
    employer: State Farm Insurance
    description: Java Developer and software development team lead primarly focused on projects and efforts in support of Property & Casualty systems.
- - title: Programmer / Analyst
-   start: 2000
-   end: 2003
-   employer: State Farm Insurance
-   description: Entry level programmer / developer, primarily working on PL/I and IMS systems in support of Agent workforce. Transitioned to VB with a focus on Mid-Tier COM in support of early customer facing Internet applications.
 
 #Education is required
 education:
@@ -107,5 +103,3 @@ additionalinfo: |
    <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework, although more recently I have several project based in Node.js. I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also developed side projects with SPA frameworks such as Angular and Ember.<br/><br/>
    <strong>Development Control</strong>: I have a extensive knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies. I have been part of a team to establish Continuos Delivery patterns in my current role.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of APIs and Frameworks and cloud platforms such as CloudFoundry, Google Cloud Platform and AWS. <br/><br/>
-   
-   
