@@ -44,9 +44,14 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Software Engineer Lead
+   start: 2018
+   end: Current
+   employer: USAA
+   description: IT Leader ressponsible for modernizing the technology stack and applications within the Property and Casualty division.   Technical Lead of a 6 person development team focused on designing and developing a suite of microservices to support the Acquistion and Servicing domains, within P&C.
  - title: IT Architect & Senior Software Developer
    start: 2016
-   end: Ongoing
+   end: 2018
    employer: State Farm Insurance
    description: IT Leader responsible for establishing and implementing the companies tactical short and long-term strategies for Business Experimentation and an API-first development culture<br/>Simultaneously led two different teams through industry scans and current state analysis for both Business Experimentation and API Development . Outcomes:<br/><ul><li>Evaluated, selected, stewarded contract negotiations and enabled a SaaS solution for Experimentation</li><li>Designed and led developed 3 custom integrations for the SaaS solution to work with our private cloud</li><li>Increased Experimentation by 50%, in the 2 quarters since acquisition of SaaS,  while achieving a 45% reduction in time to market for experiments</li><li>Delegated evaluation of available API Portal / Gateway products, collaborated on the selection of best fit for our organization.<br/>Collaborated with infrastructure to stand up trial instance for POC</li><li>Established and socialized best practices for API development,  responsible for a 50% increase in APIs under development</li></ul>
  - title: Lead / Senior Software Developer
@@ -82,6 +87,8 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - Spotts9/PhaserHacktober
+ - Spotts9/togglz
  - Spotts9/bf-calc
  - Spotts9/advent-of-code
  - Spotts9/GoogleAssistantSlack
