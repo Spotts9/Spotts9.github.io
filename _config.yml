@@ -27,26 +27,33 @@ skills:
  - API
  - Spring MVC
  - Spring Boot
+ - Cloud Native
+ - AWS
+ - OpenShift
+ - Docker / Kubernetes
  - Maven
  - AB Testing
  - SOA
  - Agile / SAFe
  - Software Development Lifecycle (SLDC)
  - Microservices
- - Solution Design
  - Tech Architecture
  - SQL
- - Hadoop / Big Data
- - OOAD
+ - Domain Driven Design
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
 
 #Work experience is required
 roles:
+ - title: Software Developer
+   start: 2020
+   end: Current
+   employer: State Farm Insurance
+   description: Software Developer in the Enterprise Technology space, focused on improving the software development practices around, and the stability of the target platform.   
  - title: Software Engineer Lead
    start: 2018
-   end: Current
+   end: 2020
    employer: USAA
    description: IT Leader ressponsible for modernizing the technology stack and applications within the Property and Casualty division.   Technical Lead of a 6 person development team focused on designing and developing a suite of microservices to support the Acquistion and Servicing domains, within P&C.
  - title: IT Architect & Senior Software Developer
@@ -87,10 +94,14 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - Spotts9/mattermost-webapp
+ - Spotts9/react-native-elements
+ - Spotts9/oshi
+ - Spotts9/benchmarks
+ - Spotts9/TotallyWickedUntitledGame
  - Spotts9/PhaserHacktober
  - Spotts9/togglz
  - Spotts9/bf-calc
- - Spotts9/advent-of-code
  - Spotts9/GoogleAssistantSlack
 
 #Stackoverflow flair is optional
@@ -106,8 +117,7 @@ github:
 #   description: A basic early Android app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot in addition to others.  My current role is primarily performing technical evaluation and setting direction for REST based API's, Java using Spring is the primary language and framework used. <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework, although more recently I have several project based in Node.js. I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also developed side projects with SPA frameworks such as Angular and Ember.<br/><br/>
-   <strong>Development Control</strong>: I have a extensive knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies. I have been part of a team to establish Continuos Delivery patterns in my current role.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of APIs and Frameworks and cloud platforms such as CloudFoundry, Google Cloud Platform and AWS. <br/><br/>
+#  <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot in addition to others.  My current role is primarily performing technical evaluation and setting direction for REST based API's, Java using Spring is the primary language and framework used. <br/><br/>
+#   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework, although more recently I have several project based in Node.js. I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also developed side projects with SPA frameworks such as Angular and Ember.<br/><br/>
+#   <strong>Development Control</strong>: I have a extensive knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies. I have been part of a team to establish Continuos Delivery patterns in my current role.<br/><br/>
+#   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of APIs and Frameworks and cloud platforms such as CloudFoundry, Google Cloud Platform and AWS. <br/><br/>
