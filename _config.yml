@@ -55,45 +55,12 @@ roles:
    start: 2023
    end: Present
    employer: State Farm Insurance
-   description: <ul>
-   <li>
-Lead multiple teams within Information Security Department with focus on
-Automation Engineering, SOAR, and Cyber Resiliency</li>
-<li>
-Directed the team through evaluation of industry tooling, selection of best fit, and
-facilitated the migration to and integration of new SOAR Platform across the
-organization</li>
-<li>
-Launched an Engineering hub within the Information Security department to
-operate as an internal results based contract engineering group</li>
-<li>
-Successfully delivered 3 major projects in the first 15 months, and 3 smaller
-automation engagements saving on average 50% of time allowing focus on higher
-value tasks</li>
-<li>
-Led a small cross department team focused on maturing Cyber Resiliency as part
-of larger enterprise resiliency program. Assisted in improving standards and
-policies related to backup and recovery, and expanding testing and compliance in
-alignment with applicable laws and regulations</li></ul>  
+   description: <ul><li>Lead multiple teams within Information Security Department with focus on Automation Engineering, SOAR, and Cyber Resiliency</li><li>Directed the team through evaluation of industry tooling, selection of best fit, and facilitated the migration to and integration of new SOAR Platform across the organization</li><li>Launched an Engineering hub within the Information Security department to operate as an internal results based contract engineering group</li><li>Successfully delivered 3 major projects in the first 15 months, and 3 smaller automation engagements saving on average 50% of time allowing focus on higher value tasks</li><li>Led a small cross department team focused on maturing Cyber Resiliency as part of larger enterprise resiliency program. Assisted in improving standards and policies related to backup and recovery, and expanding testing and compliance in alignment with applicable laws and regulations</li></ul>
  - title: Senior Technology Engineer
    start: 2021
    end: 2023
    employer: State Farm Insurance
-   description: <ul>
-   <li>Trusted technology advisor working with cross functional teams to establish
-Enterprise SRE best practices and improve overall reliability and resiliency of
-Infrastructure products, tooling, and applications.</li>
-<li>
-Led customer engagements partnering with product areas to rapidly increase the
-reliability and resiliency of their product suites. Working to establish DevOps and
-SRE best practices, pipeline improvements, monitoring and alerting review and
-updates, design consultations, and mentoring</li>
-<li>
-Establish a broader SRE Community and facilitate adoption and maturation of
-SRE best practices across the enterprise</li>
-<li>
-Research existing and emerging technology products and platforms, developing
-recommendations and roadmaps for adoption within the Enterprise SRE space</li></ul>   
+   description: <ul><li>Trusted technology advisor working with cross functional teams to establish Enterprise SRE best practices and improve overall reliability and resiliency of Infrastructure products, tooling, and applications.</li><li>Led customer engagements partnering with product areas to rapidly increase the reliability and resiliency of their product suites. Working to establish DevOps and SRE best practices, pipeline improvements, monitoring and alerting review and updates, design consultations, and mentoring</li><li>Establish a broader SRE Community and facilitate adoption and maturation of SRE best practices across the enterprise</li><li>Research existing and emerging technology products and platforms, developing recommendations and roadmaps for adoption within the Enterprise SRE space</li></ul>   
  - title: Lead Software Engineer
    start: 2020
    end: 2021
