@@ -110,13 +110,15 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - Spotts9/mattermost-webapp
+ - Spotts9/gcable-realtor
+ - Spotts9/fine-line-laser
+ - Spotts9/bf-calc
  - Spotts9/react-native-elements
  - Spotts9/oshi
  - Spotts9/benchmarks
  - Spotts9/TotallyWickedUntitledGame
  - Spotts9/PhaserHacktober
  - Spotts9/togglz
- - Spotts9/bf-calc
  - Spotts9/GoogleAssistantSlack
 
 #Stackoverflow flair is optional
